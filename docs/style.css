@@ -1,0 +1,44 @@
+body {
+    background-color: #2c2f33;
+    color: #fff;
+    text-align: center;
+    margin-top: 35vh;
+}
+
+body > * {
+    margin: 0;
+}
+
+#web {
+    font-family: 'Itim', cursive;
+    font-size: 100px;
+}
+
+#desc {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+    margin-bottom: 20px
+}
+
+#creator {
+    font-family: 'Handjet', cursive;
+    font-size: 24px;
+    margin-top: 15px;
+}
+
+#creator > a {
+    color: rgb(178, 216, 255);
+    text-decoration: none;
+}
+
+#button {
+    background-color: #7289da;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+    color: #fff;
+    text-decoration: none;
+    margin-top: 20px;
+    padding: 10px 20px;
+}
